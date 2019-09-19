@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.49e44aae.chunk.css",
-    "main.js": "/static/js/main.9a566665.chunk.js",
-    "main.js.map": "/static/js/main.9a566665.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.8634322b.js",
-    "runtime~main.js.map": "/static/js/runtime~main.8634322b.js.map",
-    "static/js/2.669e6ba0.chunk.js": "/static/js/2.669e6ba0.chunk.js",
-    "static/js/2.669e6ba0.chunk.js.map": "/static/js/2.669e6ba0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.a5c3383ed1d734334f29eb32001fcc05.js": "/precache-manifest.a5c3383ed1d734334f29eb32001fcc05.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.49e44aae.chunk.css.map": "/static/css/main.49e44aae.chunk.css.map"
+    "main.css": "/React-Clock/static/css/main.49e44aae.chunk.css",
+    "main.js": "/React-Clock/static/js/main.382b229f.chunk.js",
+    "main.js.map": "/React-Clock/static/js/main.382b229f.chunk.js.map",
+    "runtime~main.js": "/React-Clock/static/js/runtime~main.af6e6c13.js",
+    "runtime~main.js.map": "/React-Clock/static/js/runtime~main.af6e6c13.js.map",
+    "static/js/2.669e6ba0.chunk.js": "/React-Clock/static/js/2.669e6ba0.chunk.js",
+    "static/js/2.669e6ba0.chunk.js.map": "/React-Clock/static/js/2.669e6ba0.chunk.js.map",
+    "index.html": "/React-Clock/index.html",
+    "precache-manifest.e5c368e0bfa11bd8f8d090412f1ce505.js": "/React-Clock/precache-manifest.e5c368e0bfa11bd8f8d090412f1ce505.js",
+    "service-worker.js": "/React-Clock/service-worker.js",
+    "static/css/main.49e44aae.chunk.css.map": "/React-Clock/static/css/main.49e44aae.chunk.css.map"
   }
 }
